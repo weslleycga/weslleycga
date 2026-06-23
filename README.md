@@ -1,20 +1,21 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&height=80&lines=%3E_WESLLEY+CUTRIM;%3E_COMPUTER+VISION+DEV;%3E_PYTHON+ENGINEER" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&height=80&lines=%3E_WESLLEY+CUTRIM;%3E_COMPUTER+VISION+DEV;%3E_PYTHON+ENGINEER;%3E_3D+MODELER" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <b>Transformando pixels em dados e códigos em soluções inteligentes.</b>
+  <b>Transformando pixels em dados, ideias em 3D e códigos em soluções inteligentes.</b>
 </p>
 
 ---
 
 ## 👁️ Foco e Especialização
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** com um foco profundo e contínuo em **Visão Computacional** e inteligência artificial. Meu objetivo é extrair o máximo de valor de imagens e vídeos usando algoritmos modernos para automação e análise avançada.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** com um foco profundo em **Visão Computacional**, **Inteligência Artificial** e, mais recentemente, **Modelagem 3D**. Meu objetivo é unir a análise técnica com a criação visual para desenvolver projetos inovadores e disruptivos.
 
-- 🎯 **Processamento de Imagens e Vídeos:** Criação de scripts para detecção de padrões, rastreamento e análise usando OpenCV e Matlab.
+- 🎯 **Processamento de Imagens e Vídeos:** Criação de scripts para detecção de padrões, rastreamento e análise avançada utilizando OpenCV e Matlab.
+- 🧊 **Modelagem 3D (Blender):** Expandindo horizontes na criação de assets, cenários e renderizações tridimensionais aplicadas a projetos interativos.
 - 🧠 **Lógica e Automação (Python):** Domínio em scripts de automação, manipulação de dados e arquitetura de código.
-- 🌐 **Desenvolvimento Frontend:** Habilidade de integrar soluções complexas em interfaces web limpas e responsivas.
+- 🌐 **Desenvolvimento Frontend:** Habilidade de integrar soluções complexas em interfaces web limpas e responsivas (JavaScript, CSS, HTML).
 
 <br/>
 
@@ -22,7 +23,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** com um foco profundo
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,opencv,matlab,js,html,css,git,figma&theme=dark&perline=8" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=py,opencv,matlab,js,html,css,git,figma,blender&theme=dark&perline=9" alt="My Skills" />
   </a>
 </div>
 
@@ -56,11 +57,4 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** com um foco profundo
 
 <div align="center">
   <code>print("A consistência é a chave para a evolução contínua.")</code>
-</div>
-  </a>
-</div>
-
----
-<div align="center">
-  <i>"A consistência é a chave para a evolução contínua."</i>
 </div>
